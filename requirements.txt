@@ -1,0 +1,12 @@
+langchain-core==0.2.38
+langgraph==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.23
+beautifulsoup4==4.12.3
+# windows-curses==2.3.3
+termcolor==2.4.0
+pydub==0.25.1
+ipython==8.26.0
+pydantic==2.8.2
+pandas==2.2.2
+XlsxWriter==3.2.0

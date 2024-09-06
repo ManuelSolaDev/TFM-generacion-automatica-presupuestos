@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Launch app.app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "app.app",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
